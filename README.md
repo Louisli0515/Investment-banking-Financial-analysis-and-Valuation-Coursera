@@ -59,3 +59,50 @@ Derived by dividing enterprise value by specific metric:
 * EV/EBITDA
 
 A company with good ***prospects*** for profitability and growth should ***trade at a higher multiple*** than its peers.
+
+### Fully Diluted Shares Outstanding
+
+#### Basic vs. Fully Diluted Shars - When to Use?
+
+* ***Always*** use fully diluted shares;
+* Dilution is built into a company's stock price: The market accounts for the impact of dilutie securities;
+
+#### What are dilutive securities?
+
+Financial instruments that if exercised would reduce, or "dilute" basic EPS (earnings pershare). Most common:
+
+* Stock options
+* Warrants
+* Restricted stock units (RSUs)
+* Convertible preferred stocks
+* Convertible bonds
+
+#### Stock Options / Warrants
+
+***Treasury stock method*** used to determine dilutive impact
+
+* Assume that all "in the money" options and warrants exericsed.
+* Exercised shares are added to basic shares.
+* Money received from exercise are used to repurchase shares.
+* Repurchased shares become treasury stock and reduce basic shares.
+* Net of shares exericsed, and shares repurchased is dilutive impact.
+
+#### What is "in the money"
+
+* Grant price = price of stock at ***date of grant***
+* Current price = price of stock today
+* "In the money" = Current > Grant
+* "Out of the money" = Current < Grant
+
+#### Restricted Stock Units
+
+* Treated as stock options with a ***grant price of zero***
+* Total amount of RSUs treated as dilutive securities.
+
+#### Convertible Securities (Preferred Stock and Debt)
+
+* Look at conversion price/ conversion ratios to determine number of shares.
+
+#### Recap - Fully Diluted Shares
+
+* Fully diluted shares outstanding = Basic shares outstanding Options/ Warrants - net addition(TSM) + RSUs (all) + Convertible securities(outstanding * conversion rate)
