@@ -106,3 +106,39 @@ Financial instruments that if exercised would reduce, or "dilute" basic EPS (ear
 #### Recap - Fully Diluted Shares
 
 * Fully diluted shares outstanding = Basic shares outstanding Options/ Warrants - net addition(TSM) + RSUs (all) + Convertible securities(outstanding * conversion rate)
+
+### Financial Adjustments
+
+#### Review of the Spread Template
+
+* The Income Statement and the Cash Flow Data show up in the "Reported Financial Data" section of the spread template.
+* Records three years of historical data and the latest twelve months.
+* ***DO NOT*** modify the form of the template; conform the company's presentation to fit the template line items.
+
+#### Stub periods
+
+* Shows year-to-date (YTD) financial data
+* Use to derive latest-twelve-month (LTM) financial data
+* LTM = Current stub + Prior year - Prior stub
+
+#### Calendarisation
+
+* Not every company has the same year-end date
+* Most are 12/31; but many are not.
+* Important to ***convert*** all companies being analysed to same year-end
+
+#### Financial adjustments
+
+* Many historical financial statements are not "clean": - One-time charges; Extradordinary items.
+* Other times the financial presentation is not "comparable" between companies.
+* Reminder: Comparability/standardisation of data is key.
+
+#### Financial adjustment examples
+
+* Severance expense: not expected to happen every period.
+* Gain on sale of a building: Don't do it often; unrelated to operations.
+
+#### How to Locate Adjustments
+
+* Look on the face of the Income Statement
+* Do a search for Key Words in 10-K and 10-Q
