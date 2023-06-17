@@ -179,8 +179,6 @@ Stock price - moment in time
 * Future Cash-Flow Based: Discounted Cash-Flow Analysis "DCF" and Leveraged Buyout Analysis "LBO"
 * ***Never rely on just one approach***.
 
-### Basic Overview of Multiples Based Approaches
-
 #### Use of FDS and Normalised Earnings
 
 * Stock Price * Fully Diluted Shares Outstanding = Market Value of Equity or "Market Capitalisation".
@@ -190,3 +188,50 @@ Stock price - moment in time
 #### Use the Implied Multiple to Calculate Valuation
 
 * Implied Valuation Multiple TEV/LTM EBITDA * Adjusted LTM EBITDA of Business Being Valued = Implied Total Enterprise Value for Business Being Valued.
+
+### Comparable Public Companies Analysis
+
+Premise: Similar companies are hightly valuable reference points for valuation; share common:
+
+* Operating and financial characteristics;
+* Performance drivers;
+* Business and environmental risks.
+
+Considered a "current" valuation.
+
+"Good", but not "perfect"
+
+* Current market valuation levels may be historically high or low.
+* No two companies are ***exactly the same***.
+
+#### Five Steps to Perform Public Comparable Analysis
+
+* Study the business you are valuing and select a list of comparable companies;
+* Locate the necessary financial information;
+* Review key statistics to select the right universe of companies to spread;
+* Spread and benchmark the selected comparable companies;
+* Calculate valuation statistics and apply them to the business you are valuing.
+
+### Spreading Financial Information and Benchmarking
+
+#### Financial Spreads Feed the Analysis
+
+* Inputs: 10k Filings; 10q Filings; Stock Price; For Subject Company and Comparables
+* To: Spread Template: Fully diluted share calculation; Make adjustments; LTM calculations
+* Output: Benchmarking Output and Valuation Output
+
+### Advantages and Disadvantages to Comparable Public Companies Analysis
+
+#### Pros for Comparable Company Analysis
+
+* ***Market Based*** - Information used to derive valuation for target is based on actual public market data, reflecting the market's growth and risks, as well as overall sentiment.
+* ***Relativity*** - Easily measurable and comparable versus other companies.
+* ***Quick and Convenient*** - Valuation can be determined on the basis of a few quick-to-calculate inputs.
+* ***Current*** - Valuation is based on prevailing market data, which can be updated on a daily basis.
+
+#### Cons for Comparable Company Analysis
+
+* ***Market Based*** - Valuation that is completely market-based can be skewed during periods of irrationality in the market.
+* ***Absence of relevant comparables*** - "Pure play" comparables may be difficult to identify or even nonexistent, especially if the target operates in a niche market.
+* ***Potential disconnect from cash flow*** - Valuation based on prevailing market conditions or expectations may have significant disconnect from the valuation by a company's projected cash flow generation.
+* ***Company-specific issues***: Valuation of the target is based on valuation of other companies, which may fail to capture target-specific strengths, weaknesses, etc.
