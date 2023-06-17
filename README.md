@@ -142,3 +142,33 @@ Financial instruments that if exercised would reduce, or "dilute" basic EPS (ear
 
 * Look on the face of the Income Statement
 * Do a search for Key Words in 10-K and 10-Q
+
+## Module 2
+
+### Introduction to Valuation Analysis
+
+#### Valuation Observations
+
+Valuation is both an art and a science
+
+* The art is picking the best comparables and normalising financial statements which requires judgement.
+* The science is that the models and valuation techniques used all follow the same established corporate finance frame works.
+
+Valuation analysis has many applications
+
+* M&A
+* Public offerings
+* Restructurings
+* Investment decisions
+
+#### Public Companies - Stock Price
+
+For companies listed on stock exchange
+
+* Share Price
+* Public Research
+
+Stock price - moment in time
+
+* True value does not fluctuate each day
+* Perform analytics to assess valuation ranges
