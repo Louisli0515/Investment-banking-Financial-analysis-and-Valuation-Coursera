@@ -172,3 +172,21 @@ Stock price - moment in time
 
 * True value does not fluctuate each day
 * Perform analytics to assess valuation ranges
+
+#### Most Common Valuation Approaches
+
+* Market-Based Valuation Multiples: Public Company Comparables Analysis "Public Comps" and Precedent Transactions Analysis "Transaction Comps"
+* Future Cash-Flow Based: Discounted Cash-Flow Analysis "DCF" and Leveraged Buyout Analysis "LBO"
+* ***Never rely on just one approach***.
+
+### Basic Overview of Multiples Based Approaches
+
+#### Use of FDS and Normalised Earnings
+
+* Stock Price * Fully Diluted Shares Outstanding = Market Value of Equity or "Market Capitalisation".
+* Market Value of Equity + Total Debt Preferred Stock Non-Controlling Interest - Cash = Total Enterprise Value "TEV".
+* Total Enterprise Value / Normalised Latest Twelve-Month EBITDA = Implied Valuation Multiple TEV/LTM EMBITDA.
+
+#### Use the Implied Multiple to Calculate Valuation
+
+* Implied Valuation Multiple TEV/LTM EBITDA * Adjusted LTM EBITDA of Business Being Valued = Implied Total Enterprise Value for Business Being Valued.
