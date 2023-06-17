@@ -235,3 +235,28 @@ Considered a "current" valuation.
 * ***Absence of relevant comparables*** - "Pure play" comparables may be difficult to identify or even nonexistent, especially if the target operates in a niche market.
 * ***Potential disconnect from cash flow*** - Valuation based on prevailing market conditions or expectations may have significant disconnect from the valuation by a company's projected cash flow generation.
 * ***Company-specific issues***: Valuation of the target is based on valuation of other companies, which may fail to capture target-specific strengths, weaknesses, etc.
+
+## Module 3
+
+### Comparable Precedent Transaction Analysis
+
+#### Similarities between Public and Transaction Comparables
+
+* ***Market-based***: Trading price for public comps; Acquisition price for transaction comps
+* ***Multiples-based***: Judgment is required to select comparables and financial information; Spreading and adjusting financial information is virtuallly identical.
+
+#### Differences 1 of 3
+
+* Public comps are based on a current trading price nad current financial results.
+* Transaction comps are based on an acquisition price when the deal was announced and on financial information at the time of transaction, so transaction comps are "historical".
+* Transaction comps tend to focus more on historical(latest twelve month) multiples while public comparables provide historical and projected multiples.
+
+#### Differences 2 of 3
+
+* Transaction comps reflect a "change of control" premium while public comps reflect a minority interest valuation.
+* Transaction comps can also reflect ***synergies*** (if a strategic buyer) and potentially ***tax benefits*** resulting in ***higher valuation multiples***.
+* Acquisition premiums can be calculated on transaction comparables when the target company is public at the time of acquisition.
+
+#### Differences 3 of 3
+
+* Once transaction comps are spread, they ***do not need to be updated*** whereas public comps need to be updated as the stock price changes and new filings become available.
