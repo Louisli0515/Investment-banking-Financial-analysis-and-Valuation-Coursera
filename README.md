@@ -325,3 +325,6 @@ Considered a "current" valuation.
 * ***Difficult to find***: In some cases, it may be difficult to find a robust universe of precedent transactions.
 * ***Availability of information***: Information may be insufficient to determine transaction multiples for many comparable acquisitions.
 * ***Acquirer's basis for valuation***: May be based on buyer expectations regarding the target's future financial performance rather than reported LTM financial information.
+
+
+
