@@ -247,7 +247,7 @@ Considered a "current" valuation.
 
 #### Differences 1 of 3
 
-* Public comps are based on a current trading price nad current financial results.
+* Public comps are based on a current trading price and current financial results.
 * Transaction comps are based on an acquisition price when the deal was announced and on financial information at the time of transaction, so transaction comps are "historical".
 * Transaction comps tend to focus more on historical(latest twelve month) multiples while public comparables provide historical and projected multiples.
 
@@ -260,3 +260,68 @@ Considered a "current" valuation.
 #### Differences 3 of 3
 
 * Once transaction comps are spread, they ***do not need to be updated*** whereas public comps need to be updated as the stock price changes and new filings become available.
+
+### Steps to Performing Comparable Precedent Transaction Analysis
+
+#### Precedent Transactions Analysis Steps
+
+* Find and select comparable acquisitions;
+* Locate the necessary deal-related and financial information;
+* Spread and adjust financial and transactional information;
+* Benchmark comparable acquisitions against the company you are valuing;
+* Determine a reasonable range of implied valuation.
+
+### Finding Transaction Comparables
+
+#### Step 1: Select the Universe of Comparable Acquisitions
+
+* Screen for comparable acquisitions
+* Initial goal when screening for comparable acquisitions is to locate as many potential transactions as possible for a relevant, recent time period and then refine the universe.
+* Sources for Creating an Initial List of Comparable Acquisitions: ***Search M&A databases***; ***Examine target's M&A history***; ***Revisit target's universe of comparable companies***; ***Search merger proxies for comparable acquisitions***; ***Review equity and fixed income research reports***.
+
+### Unique Aspects of Spreading a Transaction Comparable
+
+#### Unique Aspects of Spreading a Transaction
+
+* ***Fully diluted shares*** and ***total enterprise value calculations***.
+* Different forms of consideration: ***Cash***, ***Shares of acquiring company*** and ***Combination***.
+* Calculation of premiums paid.
+* ***Impact of synergies***.
+
+#### Fully Diluted Shares and TEV Calculations
+
+* In a transaction, RSUs and "outstanding" versus just "exercisable" options should be factored into fully diluted shares.
+* Debt pre-payment penalities might need to be added to debt balances in a transaction comp as well.
+
+#### Different Forms of Consideration
+
+* Cash: OfferPrice * Fully Diluted Shares Outstanding = Equity Value;
+* Stock (Shares of acquirer's stock): (Exchange Ratio * Acquirer's Share price) * Fully Diluted Shares Outstanding = Equity Value;
+* Cash and Stock: (Cash Offer Price Per Share + Exchange Ratio * Acquirer's Share) * Fully Diluted Shares Outstanding = Equity Value.
+
+#### Calculation of Premium Paid
+
+* Offer Price Per Share / Unaffected Share Price - 1 = % Premium Paid.
+
+#### Impact of Synergies
+
+* Enterprise Value / LTM EBITDA
+* Enterprise Value / (LTM EBITDA + Synergies)
+
+### Advantages and Disadvantages of Comparable Transactions Analysis
+
+#### Advantages of Comparable Precedent Transactions Analysis
+
+* ***Market-based***: Analysis is based on actual acquisition multiples and premiums paid for similar companies.
+* ***Current***: Recent transactions tend to reflect prevailing M&A, capital markets and general economic conditions.
+* ***Relativity***: Multiples approach provides straightforward reference points across sectors and time periods.
+* ***Simplicity***: Key multiples for a few selected transactions can anchor valuation.
+* ***Objectivity***: Precedent-based and therefore, avoids making assumptiosn about company's future performance.
+
+#### Disadvantages of Comparable Precedent Transactions Analysis
+
+* ***Market-based***: Multiples may be skewed depending on capital markets and/or economic environment at the time of the transaction.
+* ***Time-lag***: Precedent transactions, by definition, have occurred in the past and, therefore, may not be truly reflective of current market conditions.
+* ***Difficult to find***: In some cases, it may be difficult to find a robust universe of precedent transactions.
+* ***Availability of information***: Information may be insufficient to determine transaction multiples for many comparable acquisitions.
+* ***Acquirer's basis for valuation***: May be based on buyer expectations regarding the target's future financial performance rather than reported LTM financial information.
