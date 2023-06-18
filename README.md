@@ -480,3 +480,28 @@ Bloomberg reports ***levered data***. To arrive at beta for private company,
 
 * Concept - Smaller-sized companies are risker and should have a higher cost of equity.
 * Add a size premium to the CAPM formula for smaller companies to account for thte preceived higher risk.
+
+### Discounted Cash Flows - Terminal Value
+
+#### Overview
+
+* DCF represents PV of all future FCF produced by a company
+* ***Infeasible*** to project a company's FCF indefinitely
+* So use ***Terminal value*** to capture the value of the company beyond the projection period.
+* Typically calculated on the basis of the company's FCF in the final year of the projection period
+* Terminal value typically accounts for a substantial portion of a company's value in a DCF.
+* Two widely accepted methods: ***Exit Multiple Method (EMM)*** and ***Perpetuity Growth Method (PGM)***.
+
+#### Exit Multiple Method
+
+* Calculate terminal value as a multiple of its terminal year EBITDA.
+* Multiple is typically based on the current LTM trading multiples for comparable companies.
+* Needs to be subjected to sensitivity analysis
+
+$$\text{Terminal Value} = \text{EBITDA}_{n}\times\text{Exit Multiple},$$ where $n = \text{terminal year of the projected period}.$
+
+#### Perpetuity Growth Method
+
+* Calculates terminal value by treating a company's terminal year FCF as a perpetuity growing at an assumed rate.
+* Relies on the WACC calculation ("r") and an assumption regarding the company's long-term, sustainable growth rate ("perpetuity growht rate" or "g").
+* Tends to be within a range of 2% to 4% (i.e. nominal GDP growth) $$\text{Terminal Value} = \frac{FCF_{n}\times(1+g)}{r-g}.$$
