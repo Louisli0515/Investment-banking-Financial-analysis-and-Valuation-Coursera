@@ -505,3 +505,46 @@ $$\text{Terminal Value} = \text{EBITDA}_{n}\times\text{Exit Multiple},$$ where $
 * Calculates terminal value by treating a company's terminal year FCF as a perpetuity growing at an assumed rate.
 * Relies on the WACC calculation ("r") and an assumption regarding the company's long-term, sustainable growth rate ("perpetuity growht rate" or "g").
 * Tends to be within a range of 2% to 4% (i.e. nominal GDP growth) $$\text{Terminal Value} = \frac{FCF_{n}\times(1+g)}{r-g}.$$
+
+#### Discounted Cash Flows - Calculate Present Value and Determine Valuation
+
+#### Overview
+
+* Follow concept of the ***time value of money*** : Dollar today is worth more than a dollar tomorrow.
+* Discount each year's cash flows and terminal value using the WACC as the discount rate.
+* Use WACC to calculate a discount factor for each period: $$\text{Discount Factor} = \frac{1}{(1+\text{WACC})^{n}},$$ while $$\text{Present Value Calculation Using a Year-End Discount Factor} = \text{FCF}_{n}\times\text{Discount Factor} _{n}.$$
+
+#### Determining Enterprise Value
+
+* Multiply each year's FCF and terminal value by appropriate discount factor
+* Midyear convention - presumes cash flows occur ratably throughout the year: $$\text{Enterprise Value} = \frac{\text{FCF}1}{(1+\text{WACC})^{0.5}} + \frac{\text{FCF}2}{(1+\text{WACC})^{1.5}} + ... + \frac{\text{FCF}5}{(1+\text{WACC})^{4.5}} + \frac{\text{EBITDA5}\times\text{Exit Multiple}}{(1+\text{WACC})^{5}}.$$
+
+#### Determining Equity Value
+
+* DCF using UFCF arrives at an ***Enterprise Value***.
+* Calculate Equity Value by deducting net debt, preferred stock, noncontrolloing interest
+* Divide by fully diluted shares to arrive at per share price.
+
+#### Sensitivity Analysis
+
+DCF outcome significantly affected by certain key assumptions:
+* WACC
+* Exit multiple
+* Perpetuity growth rate
+* Common to perform sensitivity analyses to develop a valuation range
+
+#### DCF Pros and Cons
+
+Pros:
+
+* Cash flow based
+* Market independent
+* Self-sufficient
+* Flexible
+
+Cons:
+
+* Dependence on multiple years of projections
+* Highly sensitive to assumptions
+* Terminal value is significant component
+* Constant capital structure
