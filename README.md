@@ -402,3 +402,81 @@ Earnings Before Interest After Taxes
 * Increase in an asset is a ***USE*** of cash; a decrease is a ***SOURCE*** of cash.
 * Increase in a liability is a ***SOURCE*** of cash and a decrease is a ***USE*** of cash.
 * NWC increase is a ***USE*** of cash and a ****DEDUCT*** from unlevered free cash flow.
+
+### Discounted Cash Flows - WACC
+
+#### Overview
+
+* Discount rate to calculate PV a company's projected FCF and terminal value.
+* Opportunity cost of capital - what an investor would expect to earn in an alternative investment with a similar risk profile.
+* Weighted average of the company's cost of debt (tax-effected) and cost of equity based on an assumed or "target" capital structure.
+
+#### WACC Formula
+
+* WACC = (After-tax Cost of Debt) * (% of Debt in the Capital Structure) + (Cost of Equity * % of Equity in the Capital Structure).
+* WACC = $(r_{d}\times (1-t))\times \frac{D}{D+E} + r_{e}\times\frac{E}{D+E}$.
+
+#### WACC Steps
+
+* Determine Target Capital Structure
+* Estimate Cost of Debt ($r_{d}$)
+* Estimate Cost of Equity ($r_{e}$)
+* Calculate WACC
+
+#### Target Capital Structure
+
+Represented by ratio of Debt and Equity to Total Capitalisation
+
+* Total Capitalisation - Market Value of Equity + Debt (generally balance sheet - book value)
+
+How to determine
+
+* Current and historical levels
+* Public comparables are good benchmark
+
+* Public companies - generally use existing if in the range;
+* Private companies - generally use comparable mean/median.
+
+#### Cost of Debt
+
+* Formula: $r_{d}\times(1-t)$, where $t$ = marginal tax rate.
+Reflects company's credit profile at the target capital strucutre; key factors:
+* Size
+* Sector
+* Outlook
+* Cyclicality
+* Credit ratings/credit statistics
+* Cash flow generation
+
+#### Cost of Equity
+
+* Reflects rate of return equity investor expects to earn
+* More judgment involved - not readily observable
+* Use the Capital Asset Pricing Model (CAPM) $$(\text{Cost of Equity}) r_{e} = \text{Risk-Free Rate} + \text{Levered Beta}\times\text{Market Rist Premium}.$$ $$(\text{Cost of Equity}) r_{e} = r_{f}+\beta_{L}\times(r_{m}-r_{f}) + \text{size premium},$$ where $r_{f} = \text{risk-free rate}, \beta_{L} = \text{levered beta}, r_{m} = \text{expected return on the market}, r_{m}-r_{f} = \text{market risk premium}.$
+
+#### Risk Free Rate
+
+* Expected rate of return obtained by investing in a "riskless" security.
+* Generally look at Treasury rates - 10 or 30 years.
+
+#### Beta
+
+* Measures how stock moves relative to the market (S&P 500)
+* $> 1$, stock moves more than $1 for every $1 that market moves
+* $< 1$, stock moves less than $1 for every $1 that market moves
+
+Bloomberg reports ***levered data***. To arrive at beta for private company,
+
+* Determine comparables group (same as comparable companies)
+* Unlever beta for each comparable company $$\beta_{U} = \frac{\beta_{L}}{1+\frac{D}{E}\times(1-t)},$$ where $\beta_{U} = \text{unlevered data}, \beta_{L} = \text{levered data}, D/E = \text{debt-to-equity ratio}, t = \text{marginal tax rate}.$
+
+* Average unlevered data for the comparable group, Re-lever using company's target capital structure. $$\beta_{L} = \beta_{U}\times\left(1+\frac{D}{E}\times(1-t)\right),$$ where $D/E = \text{target debt-to-equity ratio}.$
+
+#### Market Risk Premium
+
+* Represents the spread of the expected market return over the risk-free rate.
+
+#### Size Premium
+
+* Concept - Smaller-sized companies are risker and should have a higher cost of equity.
+* Add a size premium to the CAPM formula for smaller companies to account for thte preceived higher risk.
