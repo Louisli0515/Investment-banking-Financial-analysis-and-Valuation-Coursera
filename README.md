@@ -326,5 +326,30 @@ Considered a "current" valuation.
 * ***Availability of information***: Information may be insufficient to determine transaction multiples for many comparable acquisitions.
 * ***Acquirer's basis for valuation***: May be based on buyer expectations regarding the target's future financial performance rather than reported LTM financial information.
 
+## Module 4
+
+### Discounted Cash Flows - An Introduction
+
+#### Overview
+
+* ***Intrinsic*** vs a ***market-based*** valuation technique.
+* Premise: Value of a company can be derived from the present value (PV) of its projected free cahs flow (FCF).
+* Key inputs: ***Sales growth rates***, ***Profit margins***, ***Capital expenditures***, ***Net working capital (NWC) requirements***.
+
+#### Free Cash Flow
+
+* Projected in detail for typically five years. Could be more for high growth / early stage companie.
+* Terminal value is used to ***capture*** the remaining value of the target's free cash flow beyond the projection period.
+* Projected FCF and terminal value are discounted to the present at the target's weighted average cost of capital (WACC).
+* Sum of present value (PV) of the projected FCF and terminal value = enterprise value.
+
+#### DCF Steps
+
+* Study the Target and Determine Key Performance Drivers.
+* Project Free Cash Flow.
+* Calculate Weighted Average Cost of Capital.
+* Determine Terminal Value.
+* Calculate Present Value and Dtermine Valuation.
+
 
 
